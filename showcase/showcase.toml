@@ -1,0 +1,15 @@
+[[media]]
+file = "rally.png"
+name = "An angle in motion"
+
+[[media]]
+file = "rally.json.gz"
+name = "Spin through a live rally"
+
+[[media]]
+file = "title.png"
+name = "Choose your duel"
+
+[[media]]
+file = "guide.png"
+name = "Learn the angles"
